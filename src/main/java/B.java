@@ -21,5 +21,7 @@ public class B {
         System.out.println("lll");
         System.out.println("9");
         System.out.println("10");
+        System.out.println("11");
+        System.out.println("12");
     }
 }
