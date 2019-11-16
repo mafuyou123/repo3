@@ -18,5 +18,6 @@ public class B {
         System.out.println("hhh");
         System.out.println("jjj");
         System.out.println("kkk");
+        System.out.println("lll");
     }
 }
