@@ -16,5 +16,7 @@ public class B {
         System.out.println("fff");
         System.out.println("ggg");
         System.out.println("hhh");
+        System.out.println("jjj");
+        System.out.println("kkk");
     }
 }
