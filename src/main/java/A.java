@@ -4,7 +4,6 @@
  * @Description
  * @Date 2019/11/16 15:48
  * @since
- * @deprecated
  */
 public class A {
     public static void main(String[] args) {
@@ -16,5 +15,6 @@ public class A {
         System.out.println("77777777");
         System.out.println("88888888");
         System.out.println("99999999");
+        
     }
 }
