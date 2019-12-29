@@ -4,7 +4,6 @@
  * @Description
  * @Date 2019/11/16 15:58
  * @since
- * @deprecated
  */
 public class B {
     public static void main(String[] args) {
